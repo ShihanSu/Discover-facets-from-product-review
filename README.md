@@ -20,7 +20,7 @@ On command line, type make. Then type ./beer_seg. It tooks me about 20 hours to 
 
 
 
-[1] http://cseweb.ucsd.edu/~jmcauley/pdfs/icdm12.pdf
-[2] http://www.yisongyue.com/
-[3] http://snap.stanford.edu/data/web-BeerAdvocate.html
-[4] http://cseweb.ucsd.edu/~jmcauley/
+[1]: http://cseweb.ucsd.edu/~jmcauley/pdfs/icdm12.pdf
+[2]: http://www.yisongyue.com/
+[3]: http://snap.stanford.edu/data/web-BeerAdvocate.html
+[4]: http://cseweb.ucsd.edu/~jmcauley/
