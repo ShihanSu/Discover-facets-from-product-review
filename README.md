@@ -1,7 +1,7 @@
 # Discover facets from product review
 
 ## Discription
-This is an extension to Julian McAuley's [paper][1]. In the original paper, the main goal is to discover sentiment words that corresponds to sub category ratings of beer products. In general, we can only observe a single overall rating.  But customer's opinion still has multiple dimensions.  Can we recover sentiment words correspond to the hidden dimensions of product using single rating ? This is the problem we try to attend here. This is the joint work with Prof. [Yisong Yue][2] at Caltech. 
+This is an extension to Julian McAuley's [paper] [1]. In the original paper, the main goal is to discover sentiment words that corresponds to sub category ratings of beer products. In general, we can only observe a single overall rating.  But customer's opinion still has multiple dimensions.  Can we recover sentiment words correspond to the hidden dimensions of product using single rating ? This is the problem we try to attend here. This is the joint work with Prof. [Yisong Yue][2] at Caltech. 
 
 ## Data
 This [dataset][3] consists of beer reviews from [beeradvocate]. The data span a period of more than 10 years, including all ~1.5 million reviews up to November 2011. Each review includes ratings in terms of five "aspects": appearance, aroma, palate, taste, and overall impression. Reviews include product and user information, followed by each of these five ratings, and a plaintext review. __As per request from BeerAdvocate the data is no longer available__. You might have [Julian's][4] permission to access the data. 
